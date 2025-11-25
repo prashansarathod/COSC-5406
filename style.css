@@ -1,0 +1,59 @@
+/* ============================
+   DARK NAVY BACKGROUND
+=============================== */
+.stApp {
+    background-color: #0a1a2f !important;
+}
+
+/* Make input boxes stand out */
+.css-1n76uvr, .stSelectbox, .stNumberInput, .stDateInput, .stTimeInput {
+    background-color: #13233b !important;
+    border-radius: 10px !important;
+    color: white !important;
+}
+
+/* Labels */
+label, .css-17eq0hr {
+    color: #dfe9f3 !important;
+    font-weight: 600 !important;
+}
+
+/* Title */
+.main-title {
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    color: #e6f0ff !important;
+    text-shadow: 1px 2px 6px rgba(0,0,0,0.4);
+    margin-top: -10px;
+}
+
+/* Predict button */
+div.stButton > button {
+    background-color: #1e88e5 !important;
+    color: white !important;
+    padding: 14px 30px;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight: 700;
+    border: none;
+    transition: 0.2s ease-in-out;
+}
+
+div.stButton > button:hover {
+    background-color: #1565c0 !important;
+    transform: scale(1.05);
+}
+
+/* Result Card */
+.result-card {
+    background-color: #13233b !important;
+    color: #4caf50 !important;
+    padding: 20px;
+    border-radius: 12px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    border-left: 10px solid #4caf50;
+    margin-top: 30px;
+}
