@@ -3,7 +3,7 @@
 
 ---
 
-# ✈️ **Airfare Price Prediction using Machine Learning**
+#  **Airfare Price Prediction using Machine Learning**
 
 ### *COSC-5406 – Final Project (Algoma University)*
 
