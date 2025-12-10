@@ -134,7 +134,7 @@ You will now see the **Airfare Price Prediction App** in your browser.
 * **Random Forest achieved the best accuracy** after tuning
 * Feature engineering significantly improved performance
 * Duration, Airline, and Total Stops were top predictors
-* Final R² Score: **~0.56–0.60 range** (consistent with real-world airfare complexity)
+* Final R² Score: **~0.56–0.76 range** (consistent with real-world airfare complexity)
 
 ---
 
