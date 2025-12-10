@@ -29,12 +29,12 @@ The final system integrates:
 
 The following models were developed and evaluated:
 
-| Model                               | MAE                | MSE | RMSE | R² Score |
-| ----------------------------------- | ------------------ | --- | ---- | -------- |
-| **Random Forest Regressor (Tuned)** | ⭐ Best performance |     |      |          |
-| Gradient Boosting Regressor         | Good performance   |     |      |          |
-| XGBoost Regressor                   | Competitive        |     |      |          |
-| Linear Regression                   | Baseline model     |     |      |          |
+| **Model**                              | **MAE**     | **MSE**          | **RMSE**    | **R² Score**                  |
+| -------------------------------------- | ----------- | ---------------- | ----------- | ----------------------------- |
+| **🌟 Random Forest Regressor (Tuned)** | **1311.81** | **4,877,900.02** | **2208.60** | **0.7695 — Best Performance** |
+| Gradient Boosting Regressor            | 2077.56     | 9,249,490.86     | 3041.30     | 0.5630                        |
+| XGBoost Regressor                      | 2077.18     | 9,258,664.00     | 3042.81     | 0.5625                        |
+
 
 The **tuned Random Forest model** provided the best predictive accuracy.
 
