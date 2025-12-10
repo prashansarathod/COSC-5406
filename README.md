@@ -1,5 +1,5 @@
 # COSC-5406
-Absolutely — here is a **professional README.md** tailored specifically for your GitHub repository:
+
 
 ---
 
